@@ -2,7 +2,7 @@
   "name": "SHAONBOT",
   "version": "1.2.5",
   "description": "A Simple SHAONBOT for starting a Messenger chatbot.",
-  "main": "main.js",
+  "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "login": "node login",
